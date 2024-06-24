@@ -108,6 +108,7 @@
     font-style: italic;
   }
   
-  h1 {
-    font: "Poppins";
+  a.links{
+    text-decoration: none;
+    color: darkmagenta;
   }
